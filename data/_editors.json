@@ -3,5 +3,10 @@
         "role": "owner",
         "name": "Purple",
         "link": "https://www.youtube.com/@Purplespace-_-A"
+    },
+    {
+        "role": "admin",
+        "name": "Lacey",
+        "link": "https://www.youtube.com/@seraphsolar"
     }
 ]
