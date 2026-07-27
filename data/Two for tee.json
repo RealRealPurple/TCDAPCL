@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copyable",
     "records": [
+        {
+            "user": "Dread",
+            "link": "https://medal.tv/games/geometry-dash/clips/ncgfuNxWCfC6_yHgD?invite=cr-MSxnWEwsNjgwNjk0NDI4",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
