@@ -6,6 +6,12 @@
     "verifier": "Purple",
     "verification": "https://youtu.be/3SXEIDX4hPM",
     "percentToQualify": "100",
-    "records": [ 
+    "records": [
+        {
+            "user": "Gamertime69",
+            "link": "https://medal.tv/games/imported-clips/clips/nnjgl5WiUNXa-qjVf?invite=cr-MSxNN00sNjY0MTgwMTY0",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
